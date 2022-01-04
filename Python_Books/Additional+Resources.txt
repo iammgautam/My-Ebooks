@@ -1,0 +1,77 @@
+Books:
+
+	1. Python Cookbook 3e: https://www.amazon.in/gp/product/1449340377/
+
+	2. Head First Python 2e: https://www.amazon.in/gp/product/1491919531/
+
+	3. Learn Python the Hard Way: https://www.amazon.in/gp/product/0321884914
+
+	4. Python Crash Course: https://www.amazon.in/dp/1593276036
+
+	5. Python Programming, John Zelle: https://www.amazon.in/gp/product/1590282418
+
+	6. Python: The Complete Reference: https://www.amazon.in/Python-Complete-Reference-Martin-Brown/dp/9387572943/
+
+	7. [FREE] Automate the Boring Stuff with Python: https://github.com/timofonic-otherdevstuff/ebooks-1/blob/master/Automate%20the%20Boring%20Stuff%20with%20Python.pdf
+
+Beginner Practice Projects list:
+
+	1. https://www.codementor.io/@ilyaas97/6-python-projects-for-beginners-yn3va03fs
+
+	2. https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
+
+	3. https://www.quora.com/What-are-small-projects-to-build-for-a-beginner-in-Python
+
+	4. https://realpython.com/intermediate-python-project-ideas/
+
+Intermediate Practice Projects list:
+
+	1. http://pythonprojects.net/python-projects/python-networking-projects/
+
+	2. https://www.kashipara.com/project/topics/latest_python-project-ideas_12
+
+Advanced Practice Projects list:
+
+	1. https://github.com/tuvtran/project-based-learning#python
+
+	2. https://nevonprojects.com/python-projects-2/
+
+Websites to learn Python:
+
+	1. TutorialsPoint: https://www.tutorialspoint.com/python/
+
+	2. Python Official Documentation: https://docs.python.org/3/tutorial/index.html
+
+	3. Coursera: https://www.coursera.org/courses?query=python
+
+	4. learnpython.org: https://www.learnpython.org/
+
+	5. CodeMentor: https://www.codementor.io/community/topic/python
+
+	6. Udemy: https://www.udemy.com/topic/python/
+
+	7. w3schools: https://www.w3schools.com/python/
+
+	8. CodeAcademy: https://www.codecademy.com/learn/learn-python
+
+Practice your Problem Solving skills in Python:
+
+	1. https://www.w3resource.com/python-exercises/
+
+	2. https://www.practicepython.org/
+
+	3. https://www.hackerrank.com/domains/python
+
+	4. https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving
+
+	5. https://projecteuler.net/
+
+	6. https://codingbat.com/python
+
+	7. https://pynative.com/python-exercises-with-solutions/
+
+	8. https://www.tutorialspoint.com/python/python_questions_answers.htm
+
+	9. https://www.hackerearth.com/practice/
+
+	10. https://www.codechef.com/problems/easy
